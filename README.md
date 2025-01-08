@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m @nech06
 
 - 🎓 Alumni of **Purdue University** and **Universidad Carlos III de Madrid**.
-- 🎓 **Bachelor’s in Computer Science** and **Master’s in Applied Artificial Intelligence**.
+- 🎓 **BsC Computer Science** and **MsC Applied Artificial Intelligence**.
 - 🚀 **Interests**: Artificial Intelligence, Machine Learning, and Data Mining.
 - 🎮 **Hobbies**: Playing badminton and, formerly, playing the piano.
 - 💻 Currently working at **Telefónica Innovación Digital** as a **Network Innovation Developer**, focusing on the implementation of AI & ML models for **5G+** and **6G** wireless technologies.
